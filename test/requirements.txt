@@ -4,3 +4,5 @@ coverage
 jupyter
 flake8
 mccabe
+notebook>=6.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
